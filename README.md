@@ -102,7 +102,6 @@ Site de escritório de advocacia com chatbot incluído
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gitflavius&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true" alt="Streak de contribuições" height="165" />
 
 </div>
