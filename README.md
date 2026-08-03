@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/fl%C3%A1vio-...](https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/)" target="_blank">
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
