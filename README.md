@@ -1,7 +1,7 @@
 <div align="center">
 
-# Flavio Novais
-### FullStack Developer · C# · Python · JavaScript
+# Flavio Rodrigues
+### FullStack Developer · C# · Python · JavaScript  · Typescript 
 
 Transformo problemas reais em soluções que rodam em produção — sites institucionais, CRMs e ferramentas de automação.
 
