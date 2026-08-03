@@ -1,27 +1,70 @@
-<h1 align="center">Olá, eu sou o Flavio 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>FullStack Developer</b> apaixonado por tecnologia e por encontrar formas inteligentes de resolver problemas.
-</p>
+# Flavio Novais
+### FullStack Developer · C# · Python · JavaScript
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Transformo problemas reais em soluções que rodam em produção — sites institucionais, CRMs e ferramentas de automação.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-...)
+![Localização](https://img.shields.io/badge/Minas%20Gerais%2C%20Brasil-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Disponível](https://img.shields.io/badge/Dispon%C3%ADvel%20para%20projetos-2ea44f?style=for-the-badge)
 
-### 🚀 Sobre mim
+</div>
 
-- 🔭 Atualmente trabalhando em projetos **FullStack** (C#, Python, JavaScript)
-- 🌱 Sempre aprendendo novas tecnologias e formas de resolver problemas
-- 💡 Curioso por natureza — gosto de explorar novas stacks e ferramentas
-- 📫 Como me encontrar: veja os links de contato abaixo
+<br>
 
----
+## 💼 O que eu faço
 
-### 🛠️ Stack & Ferramentas
+Desenvolvo aplicações **FullStack** do zero até o deploy: back-end em C# e Python, front-end funcional, integrações e automações. Abaixo tem projetos **rodando em produção agora**, não só código no repositório.
+
+<br>
+
+## 🚀 Projeto em destaque
+
+<table>
+<tr>
+<td width="55%">
+
+### 🔎 Radar de Vagas
+Plataforma que busca vagas de emprego em tempo real no **LinkedIn, Indeed e Google Jobs**, com filtros por área, modalidade, senioridade, cidade e país.
+
+**Stack:** Next.js · Vercel · Web Scraping
+
+[![Acessar o site](https://img.shields.io/badge/Acessar%20o%20site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://app-vagas-db5sjsvlw-artdevaways-5838s-projects.vercel.app/)
+
+</td>
+<td width="45%">
+
+[![Preview do Radar de Vagas](./assets/radar-de-vagas-preview.png)](https://app-vagas-db5sjsvlw-artdevaways-5838s-projects.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌐 Outros projetos no ar
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Demanda Uniformes](https://demandauniformes.com.br/)**
+Site institucional — Uniformes Corporativos em Minas Gerais
+
+</td>
+<td width="50%" valign="top">
+
+**[LeadHunter CRM](https://demandauniformes.com.br/crm/login)**
+CRM próprio para gestão de leads e vendas, construído para o negócio acima
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Stack
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -29,36 +72,37 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📌 Projetos em destaque
+## 📌 Código aberto (repositórios)
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [AgendaWeb](https://github.com/gitflavius/AgendaWeb) | Aplicação web de agendamento | HTML |
 | [ProjetoMiniPdv](https://github.com/gitflavius/ProjetoMiniPdv) | Estudo de caso de um sistema PDV (mini) | C# |
-| [firstPyScrapyCrawl](https://github.com/gitflavius/firstPyScrapyCrawl) | Meu primeiro web scraper aprendendo Python | Python |
+| [firstPyScrapyCrawl](https://github.com/gitflavius/firstPyScrapyCrawl) | Primeiro web scraper, aprendendo Python | Python |
 | [API-Wallet.Api](https://github.com/gitflavius/API-Wallet.Api) | API de carteira digital | C# |
 
----
+<br>
 
-### 📊 Estatísticas do GitHub
+## 📊 Atividade
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitflavius&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitflavius" alt="Streak de contribuições" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=gitflavius&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true" alt="Streak de contribuições" height="165" />
 
----
+</div>
 
-### 📫 Contato
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-..." target="_blank">LinkedIn</a>
-</p>
+<div align="center">
+
+### 📫 Vamos conversar sobre seu projeto?
+
+[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-...)
+
+</div>
