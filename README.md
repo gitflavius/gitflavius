@@ -35,7 +35,8 @@ Plataforma que busca vagas de emprego em tempo real no **LinkedIn, Indeed e Goog
 </td>
 <td width="45%">
 
-[![Preview do Radar de Vagas](./assets/radar-de-vagas-preview.png)](https://app-vagas-db5sjsvlw-artdevaways-5838s-projects.vercel.app/)
+<img width="1036" height="677" alt="image" src="https://github.com/user-attachments/assets/cde7f403-5d51-4038-939f-522bbb79c975" />
+
 
 </td>
 </tr>
@@ -47,16 +48,25 @@ Plataforma que busca vagas de emprego em tempo real no **LinkedIn, Indeed e Goog
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Demanda Uniformes](https://demandauniformes.com.br/)**
+<br>
 Site institucional — Uniformes Corporativos em Minas Gerais
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[LeadHunter CRM](https://demandauniformes.com.br/crm/login)**
+<br>
 CRM próprio para gestão de leads e vendas, construído para o negócio acima
+
+</td>
+<td width="33%" valign="top">
+
+**[Previtali Braga](https://previtalibraga.com/)**
+<br>
+Site de escritório de advocacia com chatbot incluído
 
 </td>
 </tr>
