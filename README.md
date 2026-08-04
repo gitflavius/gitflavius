@@ -5,7 +5,7 @@
 
 Transformo problemas reais em soluções que rodam em produção — sites institucionais, CRMs e ferramentas de automação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/)
 ![Localização](https://img.shields.io/badge/Minas%20Gerais%2C%20Brasil-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Disponível](https://img.shields.io/badge/Dispon%C3%ADvel%20para%20projetos-2ea44f?style=for-the-badge)
 
@@ -112,6 +112,6 @@ Site de escritório de advocacia com chatbot incluído
 
 ### 📫 Vamos conversar sobre seu projeto?
 
-[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fl%C3%A1vio-...](https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/))
+[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/])
 
 </div>
