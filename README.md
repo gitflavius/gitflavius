@@ -91,7 +91,7 @@ Site de escritório de advocacia com chatbot incluído
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [AgendaWeb](https://github.com/gitflavius/AgendaWeb) | Aplicação web de agendamento | HTML |
+| [AgendaWeb](https://github.com/gitflavius/AgendaWeb) | Aplicação web de agendamento | C# |
 | [ProjetoMiniPdv](https://github.com/gitflavius/ProjetoMiniPdv) | Estudo de caso de um sistema PDV (mini) | C# |
 | [firstPyScrapyCrawl](https://github.com/gitflavius/firstPyScrapyCrawl) | Primeiro web scraper, aprendendo Python | Python |
 | [API-Wallet.Api](https://github.com/gitflavius/API-Wallet.Api) | API de carteira digital | C# |
