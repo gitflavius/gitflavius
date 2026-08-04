@@ -112,6 +112,5 @@ Site de escritório de advocacia com chatbot incluído
 
 ### 📫 Vamos conversar sobre seu projeto?
 
-[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/])
 
 </div>
