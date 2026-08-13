@@ -1,7 +1,7 @@
 <div align="center">
 
 # Flavio Rodrigues
-### FullStack Developer · C# · Python · JavaScript  · Typescript 
+### FullStack Developer · C# · Python · JavaScript  · Typescript  ·  SQL· MongoDB
 
 Transformo problemas reais em soluções que rodam em produção — sites institucionais, CRMs e ferramentas de automação.
 
