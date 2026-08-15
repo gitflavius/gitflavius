@@ -1,156 +1,196 @@
 <div align="center">
 
-# 👋 Flavio Rodrigues
-### FullStack Developer | Building Production-Ready Solutions
+
+
+### 👨‍💻 FullStack Developer | Problem Solver | Code Enthusiast
 
 <p>
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Minas%20Gerais%2C%20Brasil-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
-  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20Projetos-2ea44f?style=for-the-badge" alt="Disponível" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+production-ready+code;Building+scalable+solutions+from+concept+to+deploy;C%23+%7C+Python+%7C+JavaScript+%7C+TypeScript+%7C+SQL" alt="Typing SVG" />
 </p>
 
 ---
+**💼:** FullStack Development (Back-end robusto + Front-end moderno)  
 
-**Transformo ideias em código que funciona. Do conceito ao deploy em produção.**  
-Especialista em aplicações FullStack: back-end robusto (C#, Python), front-end moderno (JavaScript, TypeScript), integrações e automações que resolvem problemas reais.
+<a href="https://www.linkedin.com/in/flávio-augusto-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/gitflavius"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 ---
 
-## 🔥 Em Desenvolvimento Agora
+## 🔥 Projetos em Desenvolvimento Agora
 
-### 📊 [Radar de Vagas](https://app-vagas-db5sjsvlw-artdevaways-5838s-projects.vercel.app/) **[LIVE]**
+### 💰 **BancoDoCaminhoneiro** — Banco Digital para Profissionais
+
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-Plataforma de busca de vagas **em tempo real** que agrega oportunidades do LinkedIn, Indeed e Google Jobs em um único lugar.
+Um **banco digital completo** desenhado especificamente para caminhoneiros e profissionais autônomos.
 
-**Funcionalidades:**
-- 🔍 Filtros avançados (área, modalidade, senioridade, cidade, país)
-- ⚡ Atualização em tempo real
-- 🎯 Scraping inteligente com cache otimizado
-- 📱 Interface responsiva e rápida
+**O que faz:**
+- 🏦 Contas digitais com controle total
+- 💳 Transações e transferências instantâneas  
+- 🔐 Segurança enterprise-grade (JWT, encriptação)
+- 📊 Dashboard com insights financeiros em tempo real
+- 💱 Integração com gateways de pagamento
+- 📱 API REST documentada e pronta para mobile
 
-**Status:** Produção | Visitantes ativos: 200+/mês
+**Status em Produção:** ~70% | **Contribs bem-vindas** 🎯
 
 </td>
-<td width="40%">
+<td width="35%" align="center">
 
-<img width="100%" alt="Radar de Vagas" src="https://github.com/user-attachments/assets/cde7f403-5d51-4038-939f-522bbb79c975" />
+```
+  💳
+  ║
+  ║  Digital Banking
+  ║  for Real People
+  ║
+  ╚═══════════════╝
+```
+
+**[Acessar Repositório →](https://github.com/gitflavius/BancoDOCaminhonheiro)**
 
 </td>
 </tr>
 </table>
 
-**Stack:** 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6B6B?style=flat-square)
+**Tech Stack:** `C#` `MongoDB` `ASP.NET Core` `JWT Auth` `REST API`
 
 ---
 
-## 🌐 Projetos em Produção
+### 📊 **Radar de Vagas** — Job Aggregator em Tempo Real [LIVE]
 
-### 🏢 [LeadHunter CRM](https://demandauniformes.com.br/crm/login)
-CRM completo para gestão de leads e vendas integrado ao site institucional.
-- Dashboard com analytics em tempo real
-- Automação de follow-ups
-- Relatórios customizáveis
+<table>
+<tr>
+<td width="65%">
 
-**Stack:** C# · ASP.NET Core · SQL Server · React
+Plataforma que **agrega vagas de emprego** do LinkedIn, Indeed e Google Jobs em um único lugar inteligente.
 
-### 👔 [Demanda Uniformes](https://demandauniformes.com.br/)
-Site institucional + e-commerce para empresa de uniformes corporativos em MG.
-- Catálogo dinâmico
-- Sistema de pedidos integrado
-- Integração com WhatsApp
+**Funcionalidades:**
+- 🔍 Filtros avançados (área, senioridade, modalidade, local)
+- ⚡ Atualização em tempo real com web scraping inteligente
+- 🚀 Deploy em Vercel (resposta < 1s)
+- 📱 Interface limpa e responsiva
+- 🎯 Cache otimizado para performance
 
-**Stack:** Next.js · Node.js · MongoDB
+**Status:** LIVE | **Visitantes ativos:** 200+/mês
 
-### ⚖️ [Previtali Braga](https://previtalibraga.com/)
-Site profissional de escritório de advocacia com chatbot de atendimento.
-- Landing page otimizada para conversão
-- Chatbot com IA para perguntas frequentes
-- Agendamento de consultas integrado
+</td>
+<td width="35%" align="center">
 
-**Stack:** React · TypeScript · Node.js · MongoDB
+```
+  🔍📊
+   ║
+  ╔═╩═╗
+  ║   ║
+  └───┘
+  
+Jobs Everywhere
+One Place
+```
 
----
+**[Acessar Plataforma →](https://app-vagas-db5sjsvlw-artdevaways-5838s-projects.vercel.app/)**
 
-## 🛠️ Tech Stack
+</td>
+</tr>
+</table>
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tech Stack:** `Next.js` `TypeScript` `Web Scraping` `Vercel` `React`
 
 ---
 
-## 📚 Repositórios Públicos (Open Source)
+## 🛠️ Meu Arsenal Técnico
 
-| 📦 Projeto | 📝 Descrição | 🛠️ Tech | ⭐ |
-|---|---|---|---|
-| **[Radar de Vagas](https://github.com/gitflavius/radar-vagas)** | Agregador de vagas em tempo real | Next.js · Scraping | 🔴 |
-| **[LeadHunter API](https://github.com/gitflavius/leadhunter-api)** | Backend do CRM de gestão de leads | C# · SQL Server | 🟡 |
-| **[AgendaWeb](https://github.com/gitflavius/AgendaWeb)** | Aplicação web de agendamento completa | C# · Blazor | ✅ |
-| **[ProjetoMiniPdv](https://github.com/gitflavius/ProjetoMiniPdv)** | Sistema PDV (ponto de venda) | C# · WinForms | ✅ |
-| **[API-Wallet.Api](https://github.com/gitflavius/API-Wallet.Api)** | API de carteira digital com autenticação | C# · .NET Core | ✅ |
-| **[firstPyScrapyCrawl](https://github.com/gitflavius/firstPyScrapyCrawl)** | Web scraper educational | Python · BeautifulSoup | 📚 |
+<table>
+<tr>
+<td width="50%">
 
-**Legenda:** 🔴 Em Desenvolvimento · 🟡 Manutenção · ✅ Completo · 📚 Educational
+### Backend & Sistemas
+```
+████ C# + ASP.NET Core
+████ Python + FastAPI  
+████ Node.js + Express
+███░ Arquitetura limpa
+███░ Design Patterns
+```
+
+</td>
+<td width="50%">
+
+### Frontend & UX
+```
+████ React + Next.js
+████ TypeScript
+███░ TailwindCSS
+███░ Performance otimizada
+██░░ Accessibility
+```
+
+</td>
+</tr>
+</table>
+
+**Bancos de Dados:** `SQL Server` `MongoDB` `PostgreSQL`  
+**DevOps & Cloud:** `Docker` `Vercel` `GitHub Actions` `Git Workflows`  
+**Ferramentas:** `Web Scraping` `ETL Pipelines` `API REST` `JWT Auth` `Cache Optimization`
 
 ---
 
-## 📊 Estatísticas
+## 📚 Repositórios Destacados
+
+### 🚀 Em Desenvolvimento Ativo
+
+| Projeto | Descrição | Stack | Progresso |
+|---------|-----------|-------|-----------|
+| **[BancoDoCaminhoneiro](https://github.com/gitflavius/BancoDOCaminhonheiro)** | 💰 Banco digital API-first | C# · MongoDB · ASP.NET | 🔴 70% |
+| **[Radar de Vagas](https://github.com/gitflavius/radar-vagas)** | 📊 Job aggregator em tempo real | Next.js · TypeScript · Scraping | 🟢 LIVE |
+
+### ✅ Projetos Completos
+
+| Projeto | O que é | Stack |
+|---------|---------|-------|
+| **[AgendaWeb](https://github.com/gitflavius/AgendaWeb)** | Sistema de agendamento full-stack | C# · Blazor |
+| **[API-Wallet](https://github.com/gitflavius/API-Wallet.Api)** | Carteira digital com autenticação | C# · .NET Core · JWT |
+| **[ProjetoMiniPdv](https://github.com/gitflavius/ProjetoMiniPdv)** | Sistema PDV de vendas | C# · WinForms |
+
+---
+
+## 💡 O Que Estou Buscando
+
+✅ **Desafios técnicos** — Problemas complexos que exigem criatividade  
+✅ **Impacto real** — Código que funciona em produção, com usuários reais  
+✅ **Código limpo** — Boas práticas, testes, documentação  
+✅ **Aprendizado contínuo** — Novas tech stacks e methodologias  
+
+Se seu projeto encaixa nesse perfil → [vamos conversar!](https://www.linkedin.com/in/flávio-augusto-rodrigues/)
+
+---
+
+## 🎯 Quick Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true&background=0D1117&stroke=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=0FE7B4&sideLabels=58A6FF&dates=8B949E)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true&background=0D1117&stroke=58A6FF&fire=FF7B72&currStreakNum=58A6FF)
+
+**212 Stars** | **1 Watching** | **204 Forks**
 
 </div>
 
 ---
 
-## 💡 O que busco em novos projetos
+## 📞 Fale Comigo!
 
-✅ **Desafios técnicos** — Amo resolver problemas complexos e otimizar performance  
-✅ **Impacto real** — Projetos que fazem diferença para o negócio  
-✅ **Qualidade de código** — Boas práticas, testes e documentação  
-✅ **Aprendizado contínuo** — Novas tecnologias e methodologias  
-
----
-
-## 📫 Vamos conversar?
+Se você tem um projeto interessante, quer discussão sobre arquitetura, otimização de performance ou está buscando um desenvolvedor FullStack...
 
 <div align="center">
 
-**Tem um projeto em mente? Quer discutir arquitetura, melhorar performance ou escalar uma aplicação?**
+**[📱 WhatsApp: 31 99596-8631](https://wa.me/5531995968631?text=Olá!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto...)** 
 
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-augusto-rodrigues/)
-[![Email](https://img.shields.io/badge/Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+**[🔗 LinkedIn](https://www.linkedin.com/in/flávio-augusto-rodrigues/)**
 
-*Respondo mensagens em até 24h* ⚡
+*Respondo em até 24h ⚡*
 
 </div>
 
@@ -158,6 +198,12 @@ Site profissional de escritório de advocacia com chatbot de atendimento.
 
 <div align="center">
 
-**Made with ❤️ in Minas Gerais, Brazil**
+### 🎨 Built with ❤️ in Minas Gerais, Brazil
+
+```
+if (you_need_a_developer) {
+  return contact_flavio(); // trusted, experienced, passionate 🚀
+}
+```
 
 </div>
