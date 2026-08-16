@@ -36,7 +36,7 @@ Um **banco digital completo** desenhado especificamente para caminhoneiros e pro
 - 💱 Integração com gateways de pagamento
 - 📱 API REST documentada e pronta para mobile
 
-**Status em Produção:** ~70% | **Contribs bem-vindas** 🎯
+**Status em Produção:** ~70% | **Case de estudo ** 🎯
 
 </td>
 <td width="35%" align="center">
