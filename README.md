@@ -172,7 +172,7 @@ Se seu projeto encaixa nesse perfil → [vamos conversar!](https://www.linkedin.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true&background=0D1117&stroke=58A6FF&fire=FF7B72&currStreakNum=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true&background=ffffff&stroke=58A6FF&fire=FF7B72&currStreakNum=58A6FF)
 
 **212 Stars** | **1 Watching** | **204 Forks**
 
