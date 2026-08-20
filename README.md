@@ -145,7 +145,7 @@ One Place
 | Projeto | Descrição | Stack | Progresso |
 |---------|-----------|-------|-----------|
 | **[BancoDoCaminhoneiro](https://github.com/gitflavius/BancoDOCaminhonheiro)** | 💰 Banco digital API-first | C# · MongoDB · ASP.NET | 🔴 70% |
-| **[Radar de Vagas](https://github.com/gitflavius/radar-vagas)** | 📊 Job aggregator em tempo real | Next.js · TypeScript · Scraping | 🟢 LIVE |
+| **[Radar de Vagas](https://github.com/gitflavius/AppVagas.com)** | 📊 Job aggregator em tempo real | Next.js · TypeScript · Scraping | 🟢 LIVE |
 
 ### ✅ Projetos Completos
 
