@@ -18,90 +18,7 @@
 
 ---
 
-## 🔥 Projetos em Desenvolvimento Agora
-
-### 💰 **BancoDoCaminhoneiro** — Banco Digital para Profissionais
-
-<table>
-<tr>
-<td width="65%">
-
-Um **banco digital completo** desenhado especificamente para caminhoneiros e profissionais autônomos.
-
-**O que faz:**
-- 🏦 Contas digitais com controle total
-- 💳 Transações e transferências instantâneas  
-- 🔐 Segurança enterprise-grade (JWT, encriptação)
-- 📊 Dashboard com insights financeiros em tempo real
-- 💱 Integração com gateways de pagamento
-- 📱 API REST documentada e pronta para mobile
-
-**Status em Produção:** ~70% | **Case de estudo ** 🎯
-
-</td>
-<td width="35%" align="center">
-
-```
-  💳
-  ║
-  ║  Digital Banking
-  ║  for Real People
-  ║
-  ╚═══════════════╝
-```
-
-**[Acessar Repositório →](https://github.com/gitflavius/BancoDOCaminhonheiro)**
-
-</td>
-</tr>
-</table>
-
-**Tech Stack:** `C#` `MongoDB` `ASP.NET Core` `JWT Auth` `REST API`
-
----
-
-### 📊 **Radar de Vagas** — Job Aggregator em Tempo Real [LIVE]
-
-<table>
-<tr>
-<td width="65%">
-
-Plataforma que **agrega vagas de emprego** do LinkedIn, Indeed e Google Jobs em um único lugar inteligente.
-
-**Funcionalidades:**
-- 🔍 Filtros avançados (área, senioridade, modalidade, local)
-- ⚡ Atualização em tempo real com web scraping inteligente
-- 🚀 Deploy em Vercel (resposta < 1s)
-- 📱 Interface limpa e responsiva
-- 🎯 Cache otimizado para performance
-
-**Status:** LIVE | **Visitantes ativos:** 200+/mês
-
-</td>
-<td width="35%" align="center">
-
-```
-  🔍📊
-   ║
-  ╔═╩═╗
-  ║   ║
-  └───┘
-  
-Jobs Everywhere
-One Place
-```
-
-**[Acessar Plataforma →](https://app-vagas-db5sjsvlw-artdevaways-5838s-projects.vercel.app/)**
-
-</td>
-</tr>
-</table>
-
-**Tech Stack:** `Next.js` `TypeScript` `Web Scraping` `Vercel` `React`
-
----
-
-## 🛠️ Meu Arsenal Técnico
+## 🛠️  Arsenal Técnico
 
 <table>
 <tr>
@@ -137,26 +54,6 @@ One Place
 **Ferramentas:** `Web Scraping` `ETL Pipelines` `API REST` `JWT Auth` `Cache Optimization`
 
 ---
-
-## 📚 Repositórios Destacados
-
-### 🚀 Em Desenvolvimento Ativo
-
-| Projeto | Descrição | Stack | Progresso |
-|---------|-----------|-------|-----------|
-| **[BancoDoCaminhoneiro](https://github.com/gitflavius/BancoDOCaminhonheiro)** | 💰 Banco digital API-first | C# · MongoDB · ASP.NET | 🔴 70% |
-| **[Radar de Vagas](https://github.com/gitflavius/AppVagas.com)** | 📊 Job aggregator em tempo real | Next.js · TypeScript · Scraping | 🟢 LIVE |
-
-### ✅ Projetos Completos
-
-| Projeto | O que é | Stack |
-|---------|---------|-------|
-| **[AgendaWeb](https://github.com/gitflavius/AgendaWeb)** | Sistema de agendamento full-stack | C# · Blazor |
-| **[API-Wallet](https://github.com/gitflavius/API-Wallet.Api)** | Carteira digital com autenticação | C# · .NET Core · JWT |
-| **[ProjetoMiniPdv](https://github.com/gitflavius/ProjetoMiniPdv)** | Sistema PDV de vendas | C# · WinForms |
-
----
-
 ## 💡 O Que Estou Buscando
 
 ✅ **Desafios técnicos** — Problemas complexos que exigem criatividade  
@@ -165,18 +62,6 @@ One Place
 ✅ **Aprendizado contínuo** — Novas tech stacks e methodologias  
 
 Se seu projeto encaixa nesse perfil → [vamos conversar!](https://www.linkedin.com/in/flávio-augusto-rodrigues/)
-
----
-
-## 🎯 Quick Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitflavius&hide_border=true&background=ffffff&stroke=58A6FF&fire=FF7B72&currStreakNum=58A6FF)
-
-**212 Stars** | **1 Watching** | **204 Forks**
-
-</div>
 
 ---
 
