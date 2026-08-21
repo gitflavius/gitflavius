@@ -68,8 +68,6 @@
 
 ## 📞 Fale Comigo!
 
-Se você tem um projeto interessante, quer discussão sobre arquitetura, otimização de performance ou está buscando um desenvolvedor FullStack...
-
 <div align="center">
 
 **[📱 WhatsApp: 31 99596-8631](https://wa.me/5531995968631?text=Olá!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto...)** 
