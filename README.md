@@ -46,12 +46,15 @@
 ```
 
 </td>
+<td>
+
+**DB:** `SQL Server` `MongoDB` `PostgreSQL`  
+**DevOps & Cloud:** `Docker` `Vercel` `GitHub Actions` `Git Workflows`   `Studying AWS` 
+**Ferramentas:** `Web Scraping` `ETL Pipelines` `API REST` `JWT Auth` `Cache Optimization`
+  
+</td>
 </tr>
 </table>
-
-**Bancos de Dados:** `SQL Server` `MongoDB` `PostgreSQL`  
-**DevOps & Cloud:** `Docker` `Vercel` `GitHub Actions` `Git Workflows`  
-**Ferramentas:** `Web Scraping` `ETL Pipelines` `API REST` `JWT Auth` `Cache Optimization`
 
 ---
 ## 💡 O Que Estou Buscando
@@ -60,8 +63,6 @@
 ✅ **Impacto real** — Código que funciona em produção, com usuários reais  
 ✅ **Código limpo** — Boas práticas, testes, documentação  
 ✅ **Aprendizado contínuo** — Novas tech stacks e methodologias  
-
-Se seu projeto encaixa nesse perfil → [vamos conversar!](https://www.linkedin.com/in/flávio-augusto-rodrigues/)
 
 ---
 
@@ -82,9 +83,6 @@ Se você tem um projeto interessante, quer discussão sobre arquitetura, otimiza
 ---
 
 <div align="center">
-
-### 🎨 Built with ❤️ in Minas Gerais, Brazil
-
 ```
 if (you_need_a_developer) {
   return contact_flavio(); // trusted, experienced, passionate 🚀
