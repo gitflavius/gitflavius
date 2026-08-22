@@ -18,11 +18,12 @@
 
 ---
 
-## 🛠️  Arsenal Técnico
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF0000&center=true&vCenter=true&width=999&lines=Vencedor+nNunca+desiste+%7C+Vencedor+nunca+desiste+%7C+Vencedor+nunca+desiste+%7C+Vencedor+nunca+desiste+%7C++%7C+Vencedor+nunca+desiste+%7C+Vencedor+nunca+desiste+%7C+;" alt="Typing SVG" />
+
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 
 ### Backend & Sistemas
 ```
@@ -34,7 +35,7 @@
 ```
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### Frontend & UX
 ```
