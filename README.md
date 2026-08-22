@@ -1,6 +1,6 @@
 <div align="center">
 
-### BackEnd Developer | Problem Solver | Code Enthusiast
+### BackEnd Developer | Problem Solver | Code Lover 
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Transforming+ideas+into+production-ready+code;Building+scalable+solutions+from+concept+to+deploy;C%23+%7C+Python+%7C+JavaScript+%7C+TypeScript+%7C+SQL" alt="Typing SVG" />
